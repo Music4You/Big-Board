@@ -1,0 +1,36 @@
+body {
+	background-color:#EEEEEE;
+}
+.main-content {
+	margin-left:20%;
+	margin-right:20%;
+}
+.main-content .content {
+	margin-top:3%;
+	margin-bottom:3%;
+	background-color:white;
+	border-radius:2px;
+	padding-top:1%;
+	padding-bottom:1%;
+	padding-left:1%;
+	padding-right:1%;
+	width:100%;
+}
+.main-content .content .forum {
+	margin-top:1%;
+}
+#footer {
+    bottom: 0;
+    font-size: 12px;
+    padding: 10px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+	color:#898989;
+}
+.profil {
+	font-size:12pt;
+}
+.profil .small {
+	font-size:9pt;
+}
